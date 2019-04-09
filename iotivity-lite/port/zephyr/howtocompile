@@ -1,0 +1,1 @@
+make BOARD=nrf52_pca10040 CROSS_COMPILE=arm-zephyr-eabi-
